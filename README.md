@@ -53,10 +53,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princee-pro&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
   <img src="https://github-contribution-grid-snake.vercel.app/api?username=princee-pro&theme=tokyonight" />
 </p>
 
