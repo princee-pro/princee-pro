@@ -52,6 +52,23 @@
   <img src="https://streak-stats.demolab.com?user=princee-pro&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princee-pro&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api?username=princee-pro&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=princee-pro&theme=tokyonight&hide_border=true&area=true&radius=20" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princee-pro&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
+
+
 
 ## 🧩 Languages & Tools
 
